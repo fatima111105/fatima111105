@@ -16,18 +16,16 @@
 
 ### 💡 Sobre mí
 
-- 🌷 Estoy empezando a programar y me encanta aprender cosas nuevas.
+- 🌸 Estoy empezando a programar y me encanta aprender cosas nuevas.
 - 🎓 Estudio Desarrollo de Aplicaciones Web.
 - 💻 Me interesa el diseño web, HTML, CSS y JavaScript.
-- 🌸 Me encanta el color rosa y quiero que mi perfil lo refleje.
 
 ---
 
 ### 📫 Cómo contactarme
 
-- ✉️ [Tu correo aquí]
-- 💼 [Tu LinkedIn aquí]
-- 🌐 [Tu portafolio si tienes uno]
+
+
 
 ---
 
