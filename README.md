@@ -2,9 +2,37 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-## Hello ​🩷
-My name is Fatima , and I am a 19-year-old aspiring web developer from Spain. I am currently pursuing studies in Web Application Development, where I am gaining foundational skills in programming and digital technologies. As I begin my journey in the tech world, I am eager to learn, grow, and contribute to innovative projects.
+<h1 align="center" style="color:pink;">🌸 Fatima Ajarif Saika 🌸</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-Pink?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  💖 19 años | España 🇪🇸 | Estudiante de Desarrollo de Aplicaciones Web 💻  
+</p>
+
+---
+
+### 💡 Sobre mí
+
+- 🌷 Estoy empezando a programar y me encanta aprender cosas nuevas.
+- 🎓 Estudio Desarrollo de Aplicaciones Web.
+- 💻 Me interesa el diseño web, HTML, CSS y JavaScript.
+- 🌸 Me encanta el color rosa y quiero que mi perfil lo refleje.
+
+---
+
+### 📫 Cómo contactarme
+
+- ✉️ [Tu correo aquí]
+- 💼 [Tu LinkedIn aquí]
+- 🌐 [Tu portafolio si tienes uno]
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZzZ3ZzZ2Z3Z2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ2ZzZ
 
 
 
