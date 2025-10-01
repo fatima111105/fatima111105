@@ -27,7 +27,7 @@
 
 ### 📫 Cómo contactarme
 
-- 🌸 Instagram: [@fatima.dev](https://www.instagram.com/fatima.dev) — *donde el código se mezcla con el rosa y los sueños se compilan...*
+- 🌸 Instagram: [@fatima.dev](https://www.instagram.com/fatima.dev) — 
 
 
 
